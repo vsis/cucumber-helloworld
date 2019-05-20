@@ -1,4 +1,4 @@
-package jessy-cucumber;
+package jessyCucumber;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
